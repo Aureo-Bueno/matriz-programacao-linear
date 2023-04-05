@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\MatrizSubtracao\bin\Debug\net6.0\MatrizSubtracao.exe
+C:\Users\User\Desktop\MatrizSubtracao\bin\Debug\net6.0\MatrizSubtracao.deps.json
+C:\Users\User\Desktop\MatrizSubtracao\bin\Debug\net6.0\MatrizSubtracao.runtimeconfig.json
+C:\Users\User\Desktop\MatrizSubtracao\bin\Debug\net6.0\MatrizSubtracao.dll
+C:\Users\User\Desktop\MatrizSubtracao\bin\Debug\net6.0\MatrizSubtracao.pdb
+C:\Users\User\Desktop\MatrizSubtracao\obj\Debug\net6.0\MatrizSubtracao.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\MatrizSubtracao\obj\Debug\net6.0\MatrizSubtracao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\MatrizSubtracao\obj\Debug\net6.0\MatrizSubtracao.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\MatrizSubtracao\obj\Debug\net6.0\MatrizSubtracao.AssemblyInfo.cs
+C:\Users\User\Desktop\MatrizSubtracao\obj\Debug\net6.0\MatrizSubtracao.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\MatrizSubtracao\obj\Debug\net6.0\MatrizSubtracao.dll
+C:\Users\User\Desktop\MatrizSubtracao\obj\Debug\net6.0\refint\MatrizSubtracao.dll
+C:\Users\User\Desktop\MatrizSubtracao\obj\Debug\net6.0\MatrizSubtracao.pdb
+C:\Users\User\Desktop\MatrizSubtracao\obj\Debug\net6.0\MatrizSubtracao.genruntimeconfig.cache
+C:\Users\User\Desktop\MatrizSubtracao\obj\Debug\net6.0\ref\MatrizSubtracao.dll

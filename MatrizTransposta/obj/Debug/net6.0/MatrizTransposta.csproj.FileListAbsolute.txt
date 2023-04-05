@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\MatrizTransposta\bin\Debug\net6.0\MatrizTransposta.exe
+C:\Users\User\Desktop\MatrizTransposta\bin\Debug\net6.0\MatrizTransposta.deps.json
+C:\Users\User\Desktop\MatrizTransposta\bin\Debug\net6.0\MatrizTransposta.runtimeconfig.json
+C:\Users\User\Desktop\MatrizTransposta\bin\Debug\net6.0\MatrizTransposta.dll
+C:\Users\User\Desktop\MatrizTransposta\bin\Debug\net6.0\MatrizTransposta.pdb
+C:\Users\User\Desktop\MatrizTransposta\obj\Debug\net6.0\MatrizTransposta.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\MatrizTransposta\obj\Debug\net6.0\MatrizTransposta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\MatrizTransposta\obj\Debug\net6.0\MatrizTransposta.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\MatrizTransposta\obj\Debug\net6.0\MatrizTransposta.AssemblyInfo.cs
+C:\Users\User\Desktop\MatrizTransposta\obj\Debug\net6.0\MatrizTransposta.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\MatrizTransposta\obj\Debug\net6.0\MatrizTransposta.dll
+C:\Users\User\Desktop\MatrizTransposta\obj\Debug\net6.0\refint\MatrizTransposta.dll
+C:\Users\User\Desktop\MatrizTransposta\obj\Debug\net6.0\MatrizTransposta.pdb
+C:\Users\User\Desktop\MatrizTransposta\obj\Debug\net6.0\MatrizTransposta.genruntimeconfig.cache
+C:\Users\User\Desktop\MatrizTransposta\obj\Debug\net6.0\ref\MatrizTransposta.dll

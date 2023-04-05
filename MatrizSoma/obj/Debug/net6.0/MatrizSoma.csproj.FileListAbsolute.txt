@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\MatrizSoma\bin\Debug\net6.0\MatrizSoma.exe
+C:\Users\User\Desktop\MatrizSoma\bin\Debug\net6.0\MatrizSoma.deps.json
+C:\Users\User\Desktop\MatrizSoma\bin\Debug\net6.0\MatrizSoma.runtimeconfig.json
+C:\Users\User\Desktop\MatrizSoma\bin\Debug\net6.0\MatrizSoma.dll
+C:\Users\User\Desktop\MatrizSoma\bin\Debug\net6.0\MatrizSoma.pdb
+C:\Users\User\Desktop\MatrizSoma\obj\Debug\net6.0\MatrizSoma.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\MatrizSoma\obj\Debug\net6.0\MatrizSoma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\MatrizSoma\obj\Debug\net6.0\MatrizSoma.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\MatrizSoma\obj\Debug\net6.0\MatrizSoma.AssemblyInfo.cs
+C:\Users\User\Desktop\MatrizSoma\obj\Debug\net6.0\MatrizSoma.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\MatrizSoma\obj\Debug\net6.0\MatrizSoma.dll
+C:\Users\User\Desktop\MatrizSoma\obj\Debug\net6.0\refint\MatrizSoma.dll
+C:\Users\User\Desktop\MatrizSoma\obj\Debug\net6.0\MatrizSoma.pdb
+C:\Users\User\Desktop\MatrizSoma\obj\Debug\net6.0\MatrizSoma.genruntimeconfig.cache
+C:\Users\User\Desktop\MatrizSoma\obj\Debug\net6.0\ref\MatrizSoma.dll
